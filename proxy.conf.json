@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "https://authentication-backend-app-sigma.vercel.app",
+    "target": "https://authentication-backend-app-goh2.onrender.com",
     "secure": true,
     "changeOrigin": true
   }
