@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "todo",
+    "target": "https://authentication-backend-app-sigma.vercel.app",
     "secure": true,
     "changeOrigin": true
   }
