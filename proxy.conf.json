@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "https://authentication-backend-app-sigma.vercel.app",
+    "target": "https://authentication-backend-app-prity-kumaris-projects.vercel.app/",
     "secure": true,
     "changeOrigin": true
   }
